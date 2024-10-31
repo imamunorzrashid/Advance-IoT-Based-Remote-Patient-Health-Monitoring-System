@@ -1,11 +1,10 @@
-# Advance-IoT-Based-Remote-Patient-Health-Monitoring-System
+# Shocheton - IoT-Based Remote Patient Health Monitoring System
 
-
-This repository contains the code and resources for **Haturi Doctor**, an IoT-based remote patient health monitoring system developed for the MTE 3104 - Microcontroller and Interfacing Sessional at the Rajshahi University of Engineering & Technology. The project provides real-time monitoring of a patient’s vital signs, including temperature, humidity, heart rate, and oxygen saturation (SpO2), and displays the data on the **Blynk** IoT platform.
+This repository contains the code and resources for **Shocheton**, an IoT-based remote patient health monitoring system developed for the MTE 3104 - Microcontroller and Interfacing Sessional at the Rajshahi University of Engineering & Technology. Shocheton provides real-time monitoring of a patient’s vital signs, including temperature, humidity, heart rate, and oxygen saturation (SpO2), and displays the data on the **Blynk** IoT platform.
 
 ## Project Overview
 
-The **Haturi Doctor** project aims to bridge healthcare gaps by providing an easy-to-use, wireless health monitoring solution. The system collects vital health data through a combination of DHT and MAX30100 sensors and transmits the data to the **Blynk** mobile app for real-time display and remote monitoring.
+The **Shocheton** project aims to bridge healthcare gaps by offering a simple, wireless health monitoring solution. The system collects vital health data through a combination of DHT and MAX30100 sensors and transmits the data to the **Blynk** mobile app for real-time display and remote monitoring.
 
 Key sensors and components include:
 - **DHT11** for temperature and humidity readings
@@ -34,7 +33,7 @@ The complete circuit design can be found on [Cirkit Designer](https://app.cirkit
 
 1. **Clone this repository** to your local machine:
    ```bash
-   git clone https://github.com/username/Haturi-Doctor.git
+   git clone https://github.com/username/Shocheton.git
    ```
 2. **Install Required Libraries**:
    - [Blynk](https://github.com/blynkkk/blynk-library)
@@ -75,6 +74,3 @@ This project lays the foundation for enhanced healthcare accessibility in remote
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
-
----
-
